@@ -1,0 +1,10 @@
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\obj\Debug\Trabalho.FrmPrincipal.resources
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\obj\Debug\Trabalho.Properties.Resources.resources
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\obj\Debug\TRABALHOSEMESTRAL-MURILOAUGUSTOKRUGNERALMEIDALEITE.csproj.GenerateResource.cache
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\obj\Debug\TRABALHOSEMESTRAL-MURILOAUGUSTOKRUGNERALMEIDALEITE.csprojAssemblyReference.cache
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\bin\Debug\TRABALHOSEMESTRAL-MURILOAUGUSTOKRUGNERALMEIDALEITE.exe.config
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\bin\Debug\TRABALHOSEMESTRAL-MURILOAUGUSTOKRUGNERALMEIDALEITE.exe
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\bin\Debug\TRABALHOSEMESTRAL-MURILOAUGUSTOKRUGNERALMEIDALEITE.pdb
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\obj\Debug\TRABALHOSEMESTRAL-MURILOAUGUSTOKRUGNERALMEIDALEITE.exe
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\obj\Debug\TRABALHOSEMESTRAL-MURILOAUGUSTOKRUGNERALMEIDALEITE.pdb
+C:\Faculdade\Linguagem de programação 1\Trabalho semestral\obj\Debug\TRABALHOSEMESTRAL-MURILOAUGUSTOKRUGNERALMEIDALEITE.csproj.CoreCompileInputs.cache
